@@ -24,3 +24,10 @@ A web-based expense tracking application built with Flask that helps users manag
 
 1. Clone the repository
 2. Install requirements:
+
+## Docker Setup
+
+1. Build and run with Docker:
+```bash
+docker-compose up --build
+```
